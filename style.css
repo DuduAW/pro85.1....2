@@ -1,0 +1,13 @@
+.body_background{
+	background-image:url("concrete-road.jpg");
+	background-position:center ;
+	background-size: cover;
+}
+
+.canvas{
+	border-color: burlywood;
+	border-width:10px;
+	border-style:ridge;
+}
+
+
